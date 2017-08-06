@@ -1,5 +1,5 @@
 //
-//  AppDelegate.h
+//  DHHomeViewController.h
 //  SimpleCode
 //
 //  Created by 江道洪 on 2016/12/10.
@@ -8,10 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface AppDelegate : UIResponder <UIApplicationDelegate>
-
-@property (strong, nonatomic) UIWindow *window;
-
+@interface DHHomeViewController : UITableViewController
 
 @end
-

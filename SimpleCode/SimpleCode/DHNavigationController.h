@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  DHNavigationController.h
 //  SimpleCode
 //
 //  Created by 江道洪 on 2016/12/10.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface DHNavigationController : UINavigationController
 
 @end
-
